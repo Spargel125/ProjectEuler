@@ -1,5 +1,5 @@
-mod problem8;
-use problem8 as problem;
+mod problem10;
+use problem10 as problem;
 
 fn main() {
     problem::ans();
